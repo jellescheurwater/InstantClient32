@@ -12,7 +12,7 @@ class Instantclient32Basic11 < Formula
                      hp
                    end
                  end)
-  sha256 "6c079713ab0a65193f7bfcbad6c90e7806fa6634a3828052f8428e1533bb89d3"
+  sha256 "c1d59a284d7ed8a65fc38c1df08b4ab632aebeb27420f7892e38e0725f1325b4"
 
   conflicts_with "instantclient-basiclite",
                  :because => "Differing versions of same formula"
