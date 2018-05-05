@@ -1,7 +1,7 @@
 require File.expand_path("../../Strategies/cache_wo_download", __FILE__)
 
 # A formula that installs the Instant Client Basic package.
-class InstantclientBasic11 < Formula
+class Instantclient32Basic11 < Formula
   desc "Oracle Instant Client Basic x32"
   homepage "http://www.oracle.com/technetwork/topics/intel-macsoft-096467.html"
   hp = homepage
